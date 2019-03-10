@@ -2,14 +2,28 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
-        android:id="@+id/action_favorite"
-        android:icon="@mipmap/ic_settings"
+        android:id="@+id/navigation_1"
+        android:icon="@mipmap/ic_navigation_5"
         android:title="action_favorite"
-        app:showAsAction="ifRoom"
-        />
+        app:showAsAction="ifRoom" />
     <item
-        android:id="@+id/back"
-        android:icon="@mipmap/ic_back"
+        android:id="@+id/navigation_2"
+        android:icon="@mipmap/ic_navigation_5"
+        android:title="action_favorite"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigation_3"
+        android:icon="@mipmap/ic_navigation_5"
+        android:title="action_favorite"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigation_4"
+        android:icon="@mipmap/ic_navigation_5"
+        android:title="action_favorite"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigation_5"
+        android:icon="@mipmap/ic_navigation_5"
         android:title="action_favorite"
         app:showAsAction="ifRoom" />
 </menu>
