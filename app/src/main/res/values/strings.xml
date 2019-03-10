@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VkProfile</string>
+    <string name="edit">Edit</string>
+    <string name="status">Edit status</string>
+    <string name="friends">91 friends</string>
+    <string name="lives">Lives in Lida</string>
+    <string name="info">Show info</string>
+    <string name="news">What"'"s new?</string>
+    <string name="photo">Photo</string>
+</resources>
